@@ -1,1 +1,1 @@
-# Major-Project
+# Major-Project Student Result System
